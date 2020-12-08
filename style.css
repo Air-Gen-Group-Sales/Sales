@@ -323,7 +323,7 @@ header .row > div:last-of-type button a {
     height: 300px;
     width: 100%;
     box-shadow: 3px 3px 10px #d9d5d5, -3px -3px 10px #d9d5d5;
-    background-image: url('../imgs/about-us.jpg');
+    background-image: url('imgs/about-us.jpg');
     background-size: cover;
 }
 
