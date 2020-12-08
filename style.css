@@ -147,7 +147,7 @@ header .row > div:last-of-type, header .row > div:first-of-type {
 }
 
 header .row > div:last-of-type {
-    background-image: url('../imgs/header.jpg');
+    background-image: url('imgs/header.jpg');
     background-size: cover;
     height: 90vh;
     width: 100%;
